@@ -6,5 +6,3 @@ Using language :
 - CSS
 
 First project !
-
-Not responsive...
